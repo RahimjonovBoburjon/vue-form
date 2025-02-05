@@ -59,10 +59,9 @@
         <span class="label">Shartlar bilan tanishish</span>
         <label>
           <input type="checkbox" /> Barcha shartlarga
-          roziman</label
-        >
+          roziman</label>
       </div>
-      
+
       <button class="btn primary">Ro'yxatdan o'tish</button>
     </form>
   </div>
@@ -72,5 +71,4 @@
 export default {};
 </script>
 
-<style>
-</style>
+<style></style>
